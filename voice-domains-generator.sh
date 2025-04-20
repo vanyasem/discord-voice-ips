@@ -25,8 +25,8 @@ check_dependency() {
 check_dependency dig
 check_dependency parallel
 
-DEFAULT_REGIONS=("bucharest" "finland" "frankfurt" "madrid" "milan" "rotterdam" "stockholm" "warsaw")
 TOTAL_DOMAINS=15000
+DEFAULT_REGIONS=("atlanta" "brazil" "bucharest" "buenos-aires" "dubai" "finland" "frankfurt" "hongkong" "india" "japan" "madrid" "milan" "newark" "rotterdam" "santa-clara" "santiago" "seattle" "singapore" "south-korea" "southafrica" "stage-scale" "stockholm" "sydney" "tel-aviv" "us-central" "us-east" "us-south" "us-west" "warsaw")
 PARALLEL_JOBS="${PARALLEL_JOBS:-252}"
 
 if [[ -n "${1:-}" ]]; then
