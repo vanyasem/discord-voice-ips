@@ -15,8 +15,6 @@ add unblock 66.22.231.35 -exist
 add unblock 66.22.231.140 -exist
 add unblock 66.22.231.133 -exist
 add unblock 66.22.231.153 -exist
-add unblock bffae92e42e64cc08668fae2e2c05a34.pacloudflare.com. -exist
-add unblock 172.65.202.19 -exist
 add unblock 66.22.231.46 -exist
 add unblock 66.22.231.115 -exist
 add unblock 66.22.231.217 -exist
